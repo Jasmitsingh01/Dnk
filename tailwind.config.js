@@ -13,10 +13,10 @@ export default {
       }
     },
     backgroundImage:{  
-        'banner-1':"url('./src/assets/banner_1.jpg')"  ,
-        'card-1':"url('./src/assets/women_card.jpg')",
-        'card-2':"url('./src/assets/men_card.jpg')",
-        'card-3':"url('./src/assets/other_card.jpg')",
+        'banner-1':"url('./src/assets/banner-1.jpg')"  ,
+        'card-1':"url('./src/assets/women-card.jpg')",
+        'card-2':"url('./src/assets/men-card.jpg')",
+        'card-3':"url('./src/assets/other-card.jpg')",
         'banner-2':"url('/src/assets/banner-03.jpg')",
         'banner-3':"url('/src/assets/banner-04.jpg')",
         'banner-4':"url('/src/assets/banner-05.jpg')",
